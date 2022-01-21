@@ -1,0 +1,66 @@
+#div1{
+    width: 800px;
+    margin-left: 300px;
+    height: 1150px;
+}
+
+h1{
+    padding:50px;
+    background-color: rgb(8, 8, 119);
+    color: white;
+
+}
+
+img{
+    width: 760px;
+    margin-top: 20px;
+}
+
+#Mobile{
+    height: 210px;
+    width: 250px;
+    margin-top: -500px;
+}
+
+#six{
+    height: 250px;
+    width: 280px;
+    padding-right: 450px;
+}
+
+
+#Eight{
+margin-top: -180px;
+font-size: 24px;
+margin-left: 150px;
+font-weight: 600;
+color: rgb(124, 4, 124);
+}
+
+#Nine{
+    margin-left: 300px;
+    text-align: left;
+    line-height: 20px;
+}
+
+#Ten{
+    font-size: 30px;
+    font-weight: 800;
+}
+
+span{
+    color: rgb(124, 4, 124);
+
+}
+
+.OneP{
+    padding-left: 40px;
+    text-align: left;
+    
+
+}
+
+#Prev1{
+    padding-right: 300px;
+    
+}
